@@ -101,7 +101,7 @@ Created different charts for analysis:
 
 ---
 
-```text
+## Project Structure
 CEI-Internship-Tasks
 │
 └── Week-1-Shopping-Analysis
@@ -116,7 +116,7 @@ CEI-Internship-Tasks
     │   └── cleaned_dataset.csv
     │
     └── README.md
-```
+
 
 
 ---
