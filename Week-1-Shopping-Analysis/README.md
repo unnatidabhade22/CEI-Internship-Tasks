@@ -101,20 +101,23 @@ Created different charts for analysis:
 
 ---
 
-## Project Structure
+```text
+CEI-Internship-Tasks
+│
+└── Week-1-Shopping-Analysis
+    │
+    ├── data
+    │   └── combined_dataset.csv
+    │
+    ├── notebook
+    │   └── analysis.ipynb
+    │
+    ├── cleaned_data
+    │   └── cleaned_dataset.csv
+    │
+    └── README.md
+```
 
-shopping-analysis/
-
-├── data/
-│ └── combined_dataset.csv
-
-├── notebook/
-│ └── analysis.ipynb
-
-├── cleaned_data/
-│ └── cleaned_dataset.csv
-
-└── README.md
 
 ---
 
