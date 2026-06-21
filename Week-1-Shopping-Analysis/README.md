@@ -102,6 +102,7 @@ Created different charts for analysis:
 ---
 
 ## Project Structure
+
 CEI-Internship-Tasks
 │
 └── Week-1-Shopping-Analysis
