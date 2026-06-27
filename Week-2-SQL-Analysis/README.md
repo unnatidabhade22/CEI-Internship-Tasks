@@ -111,10 +111,11 @@ Performed basic validation checks including:
 CEI-Internship-Tasks
 │
 └── Week-2-SQL-Analysis
-    │
     ├── Sample - Superstore.csv
     │
-    ├── analysis_queries.sql
+    ├── Kaggle_analysis_queries.sql
+    │
+    ├── LMS_pdf_sql_queries.sql
     │
     └── README.md
 ```
