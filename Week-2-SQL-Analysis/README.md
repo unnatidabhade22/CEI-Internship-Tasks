@@ -3,15 +3,19 @@
 ## Week 2 Internship Assignment
 
 This project was completed as part of my Week 2 internship assignment.
-The main objective of this assignment was to learn how SQL is used for data analysis, filtering, aggregation, and solving basic business-related queries using a sales dataset.
 
-In this project, I used MySQL Workbench to import the dataset, write SQL queries, and analyze sales data.
+The objective of this assignment was to understand SQL concepts and perform data analysis using different types of SQL queries such as filtering, aggregation, joins, and business analysis.
+
+In this project, I worked on two different SQL tasks:
+
+* SQL analysis using the Superstore sales dataset
+* LMS/PDF-based SQL practice queries using relational tables
 
 ---
 
 ## Dataset Used
 
-Dataset: Superstore Sales Dataset
+### 1. Superstore Sales Dataset
 
 The dataset contains information related to:
 
@@ -22,6 +26,17 @@ The dataset contains information related to:
 * Profit
 * Quantity
 * Regions and Categories
+
+### 2. LMS SQL Practice Database
+
+Created relational tables such as:
+
+* customers
+* products
+* orders
+* order_items
+
+to practice SQL joins, relationships, transactions, and advanced queries.
 
 ---
 
@@ -35,60 +50,28 @@ The dataset contains information related to:
 
 ## Tasks Performed
 
-### 1. Database Setup
+### Kaggle Dataset SQL Analysis
 
-* Created a new SQL database
-* Imported the CSV dataset into MySQL
-* Renamed the table for easier querying
+* Created SQL database
+* Imported CSV dataset into MySQL
+* Explored table structure and sample records
+* Applied filtering queries using WHERE
+* Used GROUP BY and aggregate functions
+* Performed sales analysis and business queries
+* Analyzed top products and customers
+* Checked missing values and duplicate records
 
-### 2. Data Exploration
+### LMS/PDF SQL Queries
 
-* Displayed sample records from the table
-* Viewed table structure using `DESCRIBE`
-* Counted total records in the dataset
+Performed SQL queries based on relational database concepts such as:
 
-### 3. Filtering Queries
-
-Used `WHERE` conditions to:
-
-* Filter data by region
-* Filter products by category
-* Find products with high sales
-* Apply multiple conditions using `AND` and `OR`
-
-### 4. Aggregation Queries
-
-Used `GROUP BY` and aggregate functions such as:
-
-* `SUM()`
-* `AVG()`
-* `COUNT()`
-* `MAX()`
-* `MIN()`
-
-to analyze:
-
-* Total sales
-* Average sales
-* Total quantity sold
-* Orders by region
-
-### 5. Business Analysis
-
-Performed business-related analysis such as:
-
-* Top selling products
-* Top customers by sales
-* Monthly sales trends
-* Highest and lowest selling products
-
-### 6. Data Validation
-
-Performed basic validation checks including:
-
-* Checking missing values
-* Identifying duplicate records
-* Viewing unique categories
+* Basic SELECT queries
+* Filtering queries
+* Aggregation queries
+* INNER JOIN and LEFT JOIN
+* CASE statements
+* Transactions
+* ACID properties
 
 ---
 
@@ -101,16 +84,21 @@ Performed basic validation checks including:
 * LIMIT
 * HAVING
 * DISTINCT
+* INNER JOIN
+* LEFT JOIN
+* CASE
 * Aggregate Functions
+* Transactions
 
 ---
 
 ## Project Structure
 
-```text id="3m8qvl"
+```text
 CEI-Internship-Tasks
 │
 └── Week-2-SQL-Analysis
+    │
     ├── Sample - Superstore.csv
     │
     ├── Kaggle_analysis_queries.sql
@@ -127,14 +115,14 @@ CEI-Internship-Tasks
 Through this project, I learned:
 
 * How to work with SQL databases
-* How to write and execute SQL queries
+* How to write SQL queries for data analysis
+* How joins and relationships work in databases
 * How filtering and aggregation work in SQL
 * How SQL is used for business analysis
-* How to organize and upload projects on GitHub
+* How to organize projects using GitHub
 
 ---
 
 ## Conclusion
 
-This assignment helped me build a strong understanding of basic SQL operations and data analysis techniques. It also improved my practical knowledge of handling datasets and writing structured SQL queries for real-world business scenarios.
-
+This assignment helped me improve my understanding of SQL and database concepts. I learned how to analyze sales data, perform business queries, work with relational tables, and use SQL for practical data analysis tasks.
