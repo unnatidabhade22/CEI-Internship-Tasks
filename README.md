@@ -10,4 +10,22 @@ This repository will continue to be updated regularly with upcoming weekly tasks
 
 The repository is organized week-wise to keep all tasks properly structured and easy to access.
 
+---
+
+# Internship Organization
+
+[Celebal Technologies](https://celebaltech.com)
+
+---
+
+# Author
+
+**Unnati Dabhade**
+
+GitHub: [Github Link](https://github.com/unnatidabhade22)
+
+LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/unnati-dabhade-66905728b/)
+
+---
+
 Thank you for visiting this repository.
