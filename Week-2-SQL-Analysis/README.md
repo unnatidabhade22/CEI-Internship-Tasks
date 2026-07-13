@@ -104,7 +104,9 @@ CEI-Internship-Tasks
     ├── Kaggle_analysis_queries.sql
     │
     ├── LMS_pdf_sql_queries.sql
-    │
+    |
+    ├── LMS_sql_Outputs.pdf
+    |
     └── README.md
 ```
 
