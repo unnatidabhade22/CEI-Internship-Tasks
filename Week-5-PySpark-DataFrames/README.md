@@ -27,10 +27,12 @@ Learn Apache Spark fundamentals and perform data cleaning, filtering, aggregatio
 
 Sample - Superstore Dataset
 
-## Files Included
-
-- Week5_PySpark_DataFrames.ipynb
-- Sample - Superstore.csv
+## Final Folder Structure
+Week-5
+    │
+    ├── Week5_PySpark_DataFrames.ipynb
+    ├── Sample - Superstore.csv
+    └── README.md
 
 ## Outcome
 
