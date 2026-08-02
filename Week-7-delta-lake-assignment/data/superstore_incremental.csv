@@ -1,0 +1,6 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+123,CA-2016-103730,6/12/2016,6/15/2016,First Class,SC-20725,Steven Cartwright,Consumer,United States,Wilmington,Delaware,19805,East,OFF-EN-10002500,Office Supplies,Envelopes,Globe Weis Peel & Seel First Class Envelopes,126.522,9,0,51.759
+426,CA-2017-149160,11/23/2017,11/26/2017,Second Class,JM-15265,Janet Molinari,Corporate,United States,Canton,Michigan,48187,Central,FUR-FU-10003347,Furniture,Furnishings,Coloredge Poster Frame,31.240000000000002,2,0,11.076
+574,CA-2017-164826,12/28/2017,1/4/2018,Standard Class,JF-15415,Jennifer Ferguson,Consumer,United States,New York City,New York,10024,East,TEC-PH-10000347,Technology,Phones,Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,16.335,3,0,4.0095
+99991,CA-2027-999991,01/15/2027,01/18/2027,Second Class,CG-99991,John Smith,Consumer,United States,Seattle,Washington,98101,West,OFF-PA-99999,Office Supplies,Paper,Premium Copy Paper,250.0,5,0.0,75.0
+99992,CA-2027-999992,01/16/2027,01/19/2027,Standard Class,CG-99992,Emma Watson,Corporate,United States,Austin,Texas,73301,Central,TEC-PH-99999,Technology,Phones,Smart Business Phone,850.0,2,0.05,180.0
