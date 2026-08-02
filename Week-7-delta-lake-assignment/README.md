@@ -47,7 +47,7 @@ Week-7-delta-lake-assignment/
 │   └── superstore_incremental.csv
 │
 ├── notebooks/
-│   └── delta_lake_merge_implementation.ipynb
+│   └── Week7_Delta_Lake_MERGE.ipynb
 │
 ├── screenshots/
 │   ├── data_loading/
