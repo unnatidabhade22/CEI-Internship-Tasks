@@ -1,0 +1,102 @@
+customer_id,customer_name,email,city,state,join_date
+1,Allison Hill,donaldgarcia@example.net,New Roberttown,Colorado,2024-07-08
+2,Lance Hoffman,lrobinson@example.com,Port Lindachester,Michigan,2024-10-08
+3,Tyler Rogers,jamesmichael@example.com,Lindsaymouth,Ohio,2024-02-13
+4,Jamie Arnold,barbara10@example.net,Port Keith,Colorado,2024-07-30
+5,Jamie Chavez,francisco53@example.net,Jacquelineland,Rhode Island,2026-04-16
+6,Nicholas Martin,,Lake Mark,Wyoming,2023-10-29
+7,Andrew Stewart,carl95@example.org,Fostermouth,Georgia,2024-09-18
+8,Patrick Ryan,zhurst@example.com,East William,Colorado,2023-10-16
+9,Brittany Moore,ycarlson@example.com,Riceside,Alabama,2026-06-25
+10,Melanie Herrera,kayla51@example.com,Mooretown,Washington,2024-09-16
+11,Pamela Romero,harrellkenneth@example.net,East Nathaniel,Hawaii,2025-11-18
+12,Tammy Sellers,tracy15@example.com,North John,Oregon,2023-12-04
+13,John Jones,davidalvarez@example.net,West Allison,Rhode Island,2025-05-22
+14,Tanya Campos,jenniferross@example.net,Samuelhaven,New Hampshire,2024-02-07
+15,Austin Smith,briannasmith@example.net,East Carloston,Michigan,2023-11-22
+16,Diana Washington,jenniferkhan@example.net,Sanchezfort,Nebraska,2035-01-01
+17,Matthew Gomez,uowens@example.org,North Richardmouth,Connecticut,2024-08-24
+18,Joshua Taylor,joshuawright@example.org,Mortonside,Connecticut,2023-10-21
+19,Kimberly Smith,housemelinda@example.org,Tuckerborough,Montana,2023-11-03
+20,Aaron Myers,smitchell@example.net,Mooreport,Indiana,2023-11-02
+21,Kimberly Adkins,williamsthomas@example.net,North Susan,Colorado,2024-05-18
+22,Barry Hensley,kwilson@example.org,New Christophershire,Oregon,2025-10-24
+23,Dean Santiago,john62@example.net,Stephenland,Alabama,2025-07-15
+24,Kristine Garcia,williamanderson@example.com,East Mikeburgh,New Hampshire,2025-11-24
+25,Lisa Archer,contrerasangela@example.net,East Josephville,West Virginia,2025-12-10
+26,Douglas Clark,james48@example.com,Rebeccaton,Colorado,2026-04-15
+27,Donald Smith,danagreen@example.net,Arnoldchester,Oklahoma,2023-08-19
+28,Tony Vazquez,amydavenport@example.net,South David,Maryland,2025-02-20
+29,Rebecca Valencia,jason31@example.com,Dicksonberg,Kansas,2024-04-12
+30,Rita Keith,whitesandra@example.com,West Erik,Vermont,2024-01-18
+31,Andrew Ruiz,lisastevens@example.com,East Andrew,Illinois,2025-04-13
+32,Sean Rasmussen,michael86@example.net,Sheilaville,Kentucky,2024-05-07
+33,Victoria Johnson,yreed@example.com,Obrienhaven,Delaware,2025-03-24
+34,Cheryl Williams,zsmith@example.net,West Ryan,Texas,2024-12-28
+35,Mary Martinez,william65@example.com,Angelaborough,Nebraska,2026-06-01
+36,Megan Orr,richard04@example.com,South Kristi,Rhode Island,2026-05-17
+37,Jeremy Lowe,yleon@example.net,Lake Christopher,North Carolina,2026-05-31
+38,Frances Cardenas,emilywalker@example.org,North Brandon,New Mexico,2026-03-10
+39,Angel Perry,jennifercruz@example.com,East Diana,Alabama,2024-01-16
+40,Colleen Brock,pwilliams@example.org,Andersonmouth,Texas,2025-11-06
+41,Linda Dodson DVM,jrivas@example.com,Lake Michelle,New Hampshire,2024-09-09
+42,Sara Ramirez,rsims@example.com,Lake Justinview,Michigan,2024-12-12
+43,Angela Hernandez,tbenson@example.org,South Rickside,New Jersey,2025-05-10
+44,Ross Price,gateskathy@example.com,Smithstad,Maryland,2025-03-31
+45,Tiffany Barnes,tracynelson@example.com,South Matthewfurt,Washington,2024-04-16
+46,Tamara Hooper,meadowsbrittany@example.net,North Dawnberg,New Jersey,2024-05-12
+47,James Lewis,matthew64@example.com,Maryfort,Alaska,2025-11-18
+48,Trevor Walker,harringtondenise@example.org,East Mary,South Carolina,2024-03-27
+49,John Wilson,stevenscott@example.com,New Catherine,West Virginia,2024-01-28
+50,Carla Collins,hickmanbarbara@example.com,Davidborough,California,2026-02-08
+51,Lori Garcia,melissa91@example.net,West Amandastad,California,2025-09-27
+52,Alexandria Fisher,xgarcia@example.net,Zimmermanchester,Idaho,2025-10-22
+53,Debra Morton,umarshall@example.net,Marcusbury,Colorado,2024-10-10
+54,Dana Marshall,frogers@example.com,South Jason,Kentucky,2025-01-13
+55,Kyle Beard,blackjames@example.org,Freemanbury,Vermont,2025-08-12
+56,Katherine Mcguire,phillipsrichard@example.org,Elizabethstad,New Mexico,2025-12-10
+57,Jessica Reese,michael74@example.com,Jerryborough,Massachusetts,2024-02-05
+58,Tiffany Vaughn,javierwashington@example.net,Tinaborough,Maine,2024-07-22
+59,Eric Erickson,joshuamccann@example.net,Heidiberg,South Dakota,2025-09-04
+60,Adam Mitchell,lalexander@example.org,Shelleyfort,Delaware,2023-11-13
+61,Benjamin Soto,hernandezlisa@example.com,East Davidchester,Rhode Island,2026-02-15
+62,Courtney Mills,tkerr@example.net,Torreston,South Carolina,2024-01-05
+63,Christine Clark,mooreglenn@example.org,North Ricky,Vermont,2026-02-11
+64,Andrew Roberts,jacqueline71@example.net,West Kristin,South Dakota,2026-02-05
+65,Taylor Coleman,deborahkerr@example.org,North Gabrielport,Rhode Island,2026-01-04
+66,Jessica Harrison,holly48@example.net,Kimton,Nevada,2024-12-16
+67,Allison Perez,keyemily@example.com,Port Katelynfort,North Dakota,2026-05-12
+68,Donald Shea,fwalters@example.org,Baileymouth,Massachusetts,2026-06-10
+69,Christopher Jenkins,zroberts@example.net,South Christopherview,Massachusetts,2024-01-31
+70,Jennifer Robertson,sandovalamy@example.com,East Aprilfort,South Dakota,2025-06-20
+71,Christina Dunn,samuel71@example.org,Lake Eric,Oklahoma,2023-08-25
+72,Anna Gay,murraydavid@example.org,Cantuport,North Carolina,2026-08-03
+73,Ruben Baird,stephenthomas@example.org,Port Chad,Wyoming,2025-05-09
+74,Richard Adams,campbellkenneth@example.net,Grimesmouth,Ohio,2025-08-25
+75,Juan Daniels,mcantu@example.net,New Patrick,Wyoming,2025-05-03
+76,Patrick Thornton,qhughes@example.net,South Tammie,Florida,2025-09-22
+77,Evelyn Garcia,dgarcia@example.org,South Monica,Georgia,2023-11-28
+78,Wayne Morgan,vsantos@example.net,Finleyfort,Ohio,2023-09-28
+79,Cynthia Cohen,wendy16@example.org,South Garrettport,Alaska,2023-10-14
+80,Anthony Howard,hthomas@example.com,East Gregory,South Carolina,2025-03-20
+81,Cynthia Durham,jesselittle@example.com,Elizabethmouth,Maine,2026-06-21
+82,Angela Landry,danielle64@example.com,Jamesfurt,New Mexico,2024-01-16
+83,Kenneth Andrews,andrew64@example.org,New Julieport,Wyoming,2024-07-26
+84,Heather Fields,erica21@example.net,West Kristinaton,Pennsylvania,2025-02-20
+85,Ann Phillips,ithompson@example.net,Alyssaview,Hawaii,2024-09-06
+86,Terry Coffey,julie51@example.com,East Karenbury,Utah,2026-06-16
+87,Tracy Ballard,christopher60@example.com,South Miguelview,Pennsylvania,2025-03-17
+88,Teresa Rodriguez,thomasharvey@example.net,Rosebury,Tennessee,2023-11-10
+89,Julie Haynes,cwilson@example.org,Wendyville,Connecticut,2024-08-02
+90,Brandy Chavez,umatthews@example.org,Penafort,South Carolina,2025-04-28
+91,Diana Vaughn,scottsampson@example.com,Lake Michaelstad,Arkansas,2025-04-13
+92,Walter Rush,ndavis@example.net,North Kristinbury,Florida,2025-12-28
+93,Ronald Spencer,lisahall@example.org,West Micheleberg,Florida,2025-11-20
+94,Christopher Guerrero,andersonmichael@example.org,Alfredview,Arkansas,2024-02-16
+95,Kelly Reese,xwest@example.net,South Williamton,Washington,2026-05-23
+96,Judith Maynard,lutzmelanie@example.com,South Jennifermouth,California,2023-12-07
+97,Charles Martinez,oscar98@example.com,Wagnerchester,Connecticut,2026-07-29
+98,Matthew Rich,russellbeasley@example.com,Mariafurt,Nebraska,2023-12-29
+99,Erik Scott,gloriawells@example.org,North Ryanstad,Florida,2025-12-15
+100,Tyler Hoffman,jenkinsmorgan@example.com,West Carolinestad,Connecticut,2026-01-17
+11,Pamela Romero,harrellkenneth@example.net,East Nathaniel,Hawaii,2025-11-18
