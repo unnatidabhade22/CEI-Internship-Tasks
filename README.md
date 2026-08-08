@@ -3,6 +3,7 @@
 An end-to-end E-Commerce Data Engineering project that transforms raw customer, inventory, order, and order-item data into validated, business-ready datasets and an executive Power BI dashboard.
 
 The project follows a layered data architecture using Python, PySpark, Delta Lake, Azure Data Lake Storage Gen2, Azure Databricks, Azure Data Factory, and Power BI.
+***(Note: For the outputs, please refer to the `Screenshots` folder and for the project report, please refer to the `Documentation` folder.)***
 
 ---
 
