@@ -1,0 +1,13 @@
+captured_at,layer,table_name,row_count
+2026-08-08 22:37:04,bronze,customers,10000
+2026-08-08 22:37:04,bronze,inventory,5000
+2026-08-08 22:37:04,bronze,orders,50150
+2026-08-08 22:37:04,bronze,order_items,200000
+2026-08-08 22:37:04,silver,customers,10000
+2026-08-08 22:37:04,silver,inventory,5000
+2026-08-08 22:37:04,silver,orders,49500
+2026-08-08 22:37:04,silver,order_items,195044
+2026-08-08 22:37:04,gold,daily_revenue,4240
+2026-08-08 22:37:04,gold,fulfillment_kpi,2650
+2026-08-08 22:37:04,gold,inventory_health,5000
+2026-08-08 22:37:04,gold,customer_ltv,10000

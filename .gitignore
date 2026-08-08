@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+spark-temp/
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+data/delta/
+
+.env
+*.env
+*.pem
+*.key
+credentials/
+secrets/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+# Large generated order-items datasets
+data/bronze/order_items/
+data/silver/order_items/
+
+# Large source order-items dataset
+# Uncomment this only if GitHub upload becomes an issue
+# data/source/order_items.csv
+
+# Spark / Delta generated files
+data/delta/
+spark-temp/
+bin/

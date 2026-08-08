@@ -1,0 +1,1 @@
+customer_id,first_name,last_name,email,phone,city,state,region,signup_date,is_active,load_ts,bronze_ingestion_timestamp,source_file_name,load_date,quarantine_reason

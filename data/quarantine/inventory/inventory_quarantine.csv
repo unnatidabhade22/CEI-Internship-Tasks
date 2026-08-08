@@ -1,0 +1,1 @@
+sku_id,product_name,category,warehouse_id,stock_quantity,reorder_level,unit_cost,last_updated,load_ts,bronze_ingestion_timestamp,source_file_name,load_date,quarantine_reason
