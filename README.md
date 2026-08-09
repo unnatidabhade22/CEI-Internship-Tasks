@@ -1,6 +1,6 @@
 # E-Commerce Data Engineering Pipeline
 ***Note 1: For the assignments completed during my 2-month internship at Celebal Technologies, please refer to the main branch of the same repository.***<br>
-***(Note 2: For the outputs, please refer to the `Screenshots` folder and for the project report, please refer to the `Documentation` folder.)***<br>
+***Note 2: For the outputs, please refer to the `Screenshots` folder and for the project report, please refer to the `Documentation` folder.***<br>
 An end-to-end E-Commerce Data Engineering project that transforms raw customer, inventory, order, and order-item data into validated, business-ready datasets and an executive Power BI dashboard.
 
 The project follows a layered data architecture using Python, PySpark, Delta Lake, Azure Data Lake Storage Gen2, Azure Databricks, Azure Data Factory, and Power BI.
