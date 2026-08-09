@@ -1,5 +1,5 @@
 # CEI Internship Tasks
-***(Note: For the final project, please refer to the ecommerce-data-engineering branch in the same repository.)***
+***(Note: For the final project, please refer to the ecommerce-data-engineering branch in the same repository.)***<br>
 This repository contains weekly assignments, practice tasks, and projects completed during my internship at [Celebal Technologies](https://celebaltech.com) under the CEI Internship Program.
 
 The purpose of this repository is to maintain and organize all internship work in a structured manner while documenting the concepts, tools, and practical tasks covered throughout the program.
